@@ -9,7 +9,7 @@ This respositry mainly is to submit the assessment task as a first phase of Fawr
 ![Screenshot from 2025-04-28 20-03-55](https://github.com/user-attachments/assets/1ea249d1-00d0-428e-a668-911cb5cbe118)
 ![Screenshot from 2025-04-28 20-04-07](https://github.com/user-attachments/assets/47c1ae32-4931-48bd-88d3-a17d363a2728)
 
-3. 🧠 Reflective Section
+2. 🧠 Reflective Section
 Argument Handling:
 
 - The script uses getopts to parse command-line options -n and -v. It checks for invalid options and provides usage information if necessary.
